@@ -16,12 +16,12 @@ Table of Contents :
 Developed Using:
 ===============
 1. In this weather forcast Application, which was developed using 
-        Developed for -> Android (native App)
-        Programming Language -> Kotlin
-        dependency Injection -> Dagger
-        Architecture patter -> MVVM
-        API Calls -> Retrofit
-        Layouts -> Constrain layout
+        Developed for -> Android (native App) ,
+        Programming Language -> Kotlin,
+        dependency Injection -> Dagger,
+        Architecture patter -> MVVM,
+        API Calls -> Retrofit,
+        Layouts -> Constrain layout,
 
 Way to Build the Project 
 ======================
