@@ -72,6 +72,8 @@ What happen if we install First time on device :
 Note : This Application which requires Interner connection and location enable is mandatory. if we deny that we not able to forecast the Weather
 it will show the empty screen along the alert msg No Internet connection / Not able to access your location respectively.
 
+app-debug.apk -> file added in the git respos itself
+
 
 
 
